@@ -1,4 +1,7 @@
 0000000000000000
 repo1
 pull test
-conflict modify by 0
+conflict modify by 0 	resolve
+conflict modify by 1 
+test conflict
+resolve con
