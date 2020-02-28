@@ -5,3 +5,4 @@ conflict modify by 0 	resolve
 conflict modify by 1 
 test conflict
 resolve con
+ssh test
