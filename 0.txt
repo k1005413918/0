@@ -1,3 +1,4 @@
 0000000000000000
 repo1
 pull test
+conflict modify by 0
