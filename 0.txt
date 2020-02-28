@@ -2,3 +2,5 @@
 repo1
 pull test
 conflict modify by 1
+rest conflict
+resolve con
